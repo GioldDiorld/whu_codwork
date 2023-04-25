@@ -1,0 +1,290 @@
+m255
+K3
+z0
+13
+cModel Technology
+dD:\CODWork\SCCPUJAL_SIM
+valu
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]STCdD^24C_ng_bV6Mzdm0
+Ia_NbU`nhOTOgTJZ[bf1Sd1
+Z1 dD:/CODWork/MCCPU_SIM
+w1680071426
+8D:/CODWork/MCCPU_SIM/alu.v
+FD:/CODWork/MCCPU_SIM/alu.v
+L0 3
+Z2 OL;L;10.5;63
+Z3 !s108 1680579560.000000
+!s107 ctrl_encode_def.v|D:/CODWork/MCCPU_SIM/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z5 tCvgOpt 0
+vctrl
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 E_[=WGdbDz3aSn764:YnX3
+IJkWkJ4Dn=an>8]<Khegk=1
+R1
+w1680071450
+8D:/CODWork/MCCPU_SIM/ctrl.v
+FD:/CODWork/MCCPU_SIM/ctrl.v
+L0 4
+R2
+R3
+!s107 D:/CODWork/MCCPU_SIM/ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/ctrl.v|
+!i113 0
+R4
+R5
+vdm
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 WiJ40XKP8aUYcRI<FS8DL3
+IY?89Q[UP0AU?6:Qoa`=eh3
+R1
+w1641561908
+8D:/CODWork/MCCPU_SIM/dm.v
+FD:/CODWork/MCCPU_SIM/dm.v
+L0 3
+R2
+Z6 !s108 1680579561.000000
+!s107 D:/CODWork/MCCPU_SIM/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/dm.v|
+!i113 0
+R4
+R5
+vEXT
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 :Qj;YBKgDO7aUU<4hCmcb3
+IWcSl0B0IdoBe3Ub^P6dFm3
+R1
+w1680071374
+8D:/CODWork/MCCPU_SIM/EXT.v
+FD:/CODWork/MCCPU_SIM/EXT.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/EXT.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/EXT.v|
+!i113 0
+R4
+R5
+n@e@x@t
+vflopenr
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 aa[fbnBV=0Z<hjkS9O5en2
+ISKW1b_gh4O;g2S_?iJI713
+R1
+w1680071518
+8D:/CODWork/MCCPU_SIM/flopenr.v
+FD:/CODWork/MCCPU_SIM/flopenr.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/flopenr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/flopenr.v|
+!i113 0
+R4
+R5
+vflopr
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 cKR]Ja2?a7S:WW`X8LiH32
+IDEQ`6=kBidClNH>mUz=Bb2
+R1
+w1680071540
+8D:/CODWork/MCCPU_SIM/flopr.v
+FD:/CODWork/MCCPU_SIM/flopr.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/flopr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/flopr.v|
+!i113 0
+R4
+R5
+vmccomp
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 nLI2YIZM6AVMLGGC=X>T:2
+ITYjH=Gg4dRm>J[6ZU:QL:1
+R1
+w1572073896
+8D:/CODWork/MCCPU_SIM/mccomp.v
+FD:/CODWork/MCCPU_SIM/mccomp.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/mccomp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/mccomp.v|
+!i113 0
+R4
+R5
+vmccomp_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z9:lWMjo?Szc??kPLgUOC2
+I5_haE]l[BKbgz[0WG8QIF2
+R1
+w1641571718
+8D:/CODWork/MCCPU_SIM/mccomp_tb.v
+FD:/CODWork/MCCPU_SIM/mccomp_tb.v
+L0 3
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/mccomp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/mccomp_tb.v|
+!i113 0
+R4
+R5
+vmccpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 PMcTMJ8?K_@[?^Uk:jRko0
+ID;T6aN;nB9:nfeFbOJl:P0
+R1
+w1680071560
+8D:/CODWork/MCCPU_SIM/mccpu.v
+FD:/CODWork/MCCPU_SIM/mccpu.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/mccpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/mccpu.v|
+!i113 0
+R4
+R5
+vmux16
+Z7 !s110 1680579561
+!i10b 1
+!s100 _kD]@DiV[:SJ[]_:lBKV[0
+ImmJDQbcnUVW:HdZcD=d@j1
+R0
+R1
+Z8 w1680071582
+Z9 8D:/CODWork/MCCPU_SIM/mux.v
+Z10 FD:/CODWork/MCCPU_SIM/mux.v
+L0 71
+R2
+r1
+!s85 0
+31
+R6
+Z11 !s107 D:/CODWork/MCCPU_SIM/mux.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/mux.v|
+!i113 0
+R4
+R5
+vmux2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 QXC^TY7h[nMB8eh1LThKL1
+IH9mL`]RN8D>@<M0e@HB6;2
+R1
+R8
+R9
+R10
+L0 2
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux4
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 3KQ[c;ZUY31^gKT9SAAk20
+I93jmKmRZH5mlZg465I?XJ1
+R1
+R8
+R9
+R10
+L0 15
+R2
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vmux8
+R7
+!i10b 1
+!s100 FLg[0F=fBIb=LWfFP8G0M0
+ITCzFEYVLn6FST2HCnL=m=1
+R0
+R1
+R8
+R9
+R10
+L0 40
+R2
+r1
+!s85 0
+31
+R6
+R11
+R12
+!i113 0
+R4
+R5
+vRF
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 RXg;dKQ<3Q7GMUV`2LHO92
+Ij2:5V9idQIMQWzBjzGK3W3
+R1
+w1680071404
+8D:/CODWork/MCCPU_SIM/RF.v
+FD:/CODWork/MCCPU_SIM/RF.v
+L0 1
+R2
+R6
+!s107 D:/CODWork/MCCPU_SIM/RF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/CODWork/MCCPU_SIM/RF.v|
+!i113 0
+R4
+R5
+n@r@f
